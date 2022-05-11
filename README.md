@@ -175,7 +175,8 @@ No browser acesse - 127.0.0.1:8000:
 
 /api/es/ - Categorias e artigos listados usando elasticsearch.
 
-/api/es/?search=titulo - filtrar categoria e artigos pelo título.
+/api/es/article-search?search=titulo - filtrar artigos pelo título.
+/api/es/category-search?search=titulo - filtrar categoria pelo título.
 ```
 
 # Frameworks e Bibliotecas
