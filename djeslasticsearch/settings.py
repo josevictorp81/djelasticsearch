@@ -136,7 +136,3 @@ ELASTICSEARCH_DSL = {
         'hosts': '127.0.0.1:9200'
     },
 }
-
-# ELASTICSEARCH_INDEX_NAMES = {
-#     'core.article': 'articles',
-# }
