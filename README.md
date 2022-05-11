@@ -174,6 +174,8 @@ No browser acesse - 127.0.0.1:8000:
 /api/ - lista as categorias e artigos usando os recurso providos pelo djangorestframework
 
 /api/es/ - Categorias e artigos listados usando elasticsearch.
+
+/api/es/?search=titulo - filtrar categoria e artigos pelo título.
 ```
 
 # Frameworks e Bibliotecas
